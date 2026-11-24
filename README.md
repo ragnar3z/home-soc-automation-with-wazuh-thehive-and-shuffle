@@ -1,2 +1,7 @@
-# home-soc-automation-with-wazuh-thehive-and-shuffle
-This is a lab that showcases how to automate SOC using Wazuh, theHive and shuffle.
+# Home SOC Automation Lab: Wazuh, TheHive & Shuffle
+
+![Architecture](diagrams/SOC Automation Lab Architecture.drawio.png)
+
+## Overview
+A home SOC pipeline that detects endpoint activity with Wazuh, enriches
+indicators with Shuffle, manages cases in TheHive, and automates response.
