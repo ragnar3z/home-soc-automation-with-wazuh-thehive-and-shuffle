@@ -1,6 +1,6 @@
 # Home SOC Automation Lab: Wazuh, TheHive & Shuffle
 
-![Architecture](diagrams/LabArchitecture.png)
+<img src="diagrams/architecture.png" alt="SOC Automation Lab Architecture" width="700">
 
 ## Overview
 A home SOC pipeline that detects endpoint activity with Wazuh, enriches
